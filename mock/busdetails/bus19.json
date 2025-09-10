@@ -1,0 +1,24 @@
+{
+  "busId": "19",
+  "registrationNumber": "TN-01-1019",
+  "busName": "Velachery",
+  "busType": "AC Seater",
+  "seatingCapacity": 55,
+  "standingCapacity": 10,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2022",
+  "fitnessExpiry": "28-07-2026",
+  "insuranceDetails": "Policy #INS-1019, Expiry 33-08-2025",
+  "pollutionExpiry": "23-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "23-06-2025",
+  "nextMaintenance": "23-12-2025",
+  "driver": {
+    "name": "Mr. Driver 19",
+    "contact": "+91 98765 43118",
+    "assignedSince": "23 March 2024",
+    "rating": 4.1,
+    "complaints": 0,
+    "feedback": "Reliable and punctual"
+  }
+}

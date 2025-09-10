@@ -1,0 +1,24 @@
+{
+  "busId": "14",
+  "registrationNumber": "TN-01-1014",
+  "busName": "Padappai",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 55,
+  "standingCapacity": 15,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2022",
+  "fitnessExpiry": "23-07-2026",
+  "insuranceDetails": "Policy #INS-1014, Expiry 28-08-2025",
+  "pollutionExpiry": "18-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "18-06-2025",
+  "nextMaintenance": "18-12-2025",
+  "driver": {
+    "name": "Mr. Driver 14",
+    "contact": "+91 98765 43113",
+    "assignedSince": "18 March 2024",
+    "rating": 4.1,
+    "complaints": 1,
+    "feedback": "Smooth driving"
+  }
+}

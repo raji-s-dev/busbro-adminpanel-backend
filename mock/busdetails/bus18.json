@@ -1,0 +1,24 @@
+{
+  "busId": "18",
+  "registrationNumber": "TN-01-1018",
+  "busName": "West Mambalam",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 50,
+  "standingCapacity": 20,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2021",
+  "fitnessExpiry": "27-07-2026",
+  "insuranceDetails": "Policy #INS-1018, Expiry 32-08-2025",
+  "pollutionExpiry": "22-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "22-06-2025",
+  "nextMaintenance": "22-12-2025",
+  "driver": {
+    "name": "Mr. Driver 18",
+    "contact": "+91 98765 43117",
+    "assignedSince": "22 March 2024",
+    "rating": 3.9,
+    "complaints": 2,
+    "feedback": "Smooth driving"
+  }
+}

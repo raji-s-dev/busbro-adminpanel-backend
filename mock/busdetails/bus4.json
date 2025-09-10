@@ -1,0 +1,24 @@
+{
+  "busId": "4",
+  "registrationNumber": "TN-01-1004",
+  "busName": "Anakaputhur",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 55,
+  "standingCapacity": 10,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2022",
+  "fitnessExpiry": "13-07-2026",
+  "insuranceDetails": "Policy #INS-1004, Expiry 18-08-2025",
+  "pollutionExpiry": "08-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "08-06-2025",
+  "nextMaintenance": "08-12-2025",
+  "driver": {
+    "name": "Mr. Driver 4",
+    "contact": "+91 98765 43103",
+    "assignedSince": "8 March 2024",
+    "rating": 4.1,
+    "complaints": 0,
+    "feedback": "Smooth driving"
+  }
+}

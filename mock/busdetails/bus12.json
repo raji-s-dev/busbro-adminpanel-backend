@@ -1,0 +1,24 @@
+{
+  "busId": "12",
+  "registrationNumber": "TN-01-1012",
+  "busName": "Madipakkam-II",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 45,
+  "standingCapacity": 20,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2020",
+  "fitnessExpiry": "21-07-2026",
+  "insuranceDetails": "Policy #INS-1012, Expiry 26-08-2025",
+  "pollutionExpiry": "16-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "16-06-2025",
+  "nextMaintenance": "16-12-2025",
+  "driver": {
+    "name": "Mr. Driver 12",
+    "contact": "+91 98765 43111",
+    "assignedSince": "16 March 2024",
+    "rating": 3.7,
+    "complaints": 2,
+    "feedback": "Smooth driving"
+  }
+}

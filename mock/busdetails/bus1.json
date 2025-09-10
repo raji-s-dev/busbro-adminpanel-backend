@@ -1,0 +1,24 @@
+{
+  "busId": "1",
+  "registrationNumber": "TN-01-1001",
+  "busName": "Avadi",
+  "busType": "AC Seater",
+  "seatingCapacity": 40,
+  "standingCapacity": 10,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2019",
+  "fitnessExpiry": "10-07-2026",
+  "insuranceDetails": "Policy #INS-1001, Expiry 15-08-2025",
+  "pollutionExpiry": "05-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "05-06-2025",
+  "nextMaintenance": "05-12-2025",
+  "driver": {
+    "name": "Mr. Driver 1",
+    "contact": "+91 98765 43100",
+    "assignedSince": "5 March 2024",
+    "rating": 3.5,
+    "complaints": 0,
+    "feedback": "Reliable and punctual"
+  }
+}

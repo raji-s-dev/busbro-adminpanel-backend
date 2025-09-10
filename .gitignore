@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Environment files
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db

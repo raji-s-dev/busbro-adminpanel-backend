@@ -1,0 +1,21 @@
+[
+  { "id": "bus1", "name": "Avadi", "status": "active" },
+  { "id": "bus2", "name": "Ambathur", "status": "active" },
+  { "id": "bus3", "name": "Adyar", "status": "active" },
+  { "id": "bus4", "name": "Anakaputhur", "status": "active" },
+  { "id": "bus5", "name": "Chengalpet", "status": "active" },
+  { "id": "bus6", "name": "ECR-1", "status": "active" },
+  { "id": "bus7", "name": "ECR-2", "status": "active" },
+  { "id": "bus8", "name": "Kalpakkam", "status": "active" },
+  { "id": "bus9", "name": "Koyambedu", "status": "active" },
+  { "id": "bus10", "name": "Medavakkam", "status": "active" },
+  { "id": "bus11", "name": "Madipakkam-I", "status": "active" },
+  { "id": "bus12", "name": "Madipakkam-II", "status": "active" },
+  { "id": "bus13", "name": "Madhavaram", "status": "active" },
+  { "id": "bus14", "name": "Padappai", "status": "active" },
+  { "id": "bus15", "name": "Poonamallee", "status": "active" },
+  { "id": "bus16", "name": "Tambaram", "status": "active" },
+  { "id": "bus17", "name": "Thiruvotriyur", "status": "active" },
+  { "id": "bus18", "name": "West Mambalam", "status": "active" },
+  { "id": "bus19", "name": "Velachery", "status": "active" }
+]

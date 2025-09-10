@@ -1,0 +1,24 @@
+{
+  "busId": "9",
+  "registrationNumber": "TN-01-1009",
+  "busName": "Koyambedu",
+  "busType": "AC Seater",
+  "seatingCapacity": 55,
+  "standingCapacity": 20,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2022",
+  "fitnessExpiry": "18-07-2026",
+  "insuranceDetails": "Policy #INS-1009, Expiry 23-08-2025",
+  "pollutionExpiry": "13-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "13-06-2025",
+  "nextMaintenance": "13-12-2025",
+  "driver": {
+    "name": "Mr. Driver 9",
+    "contact": "+91 98765 43108",
+    "assignedSince": "13 March 2024",
+    "rating": 4.1,
+    "complaints": 2,
+    "feedback": "Reliable and punctual"
+  }
+}

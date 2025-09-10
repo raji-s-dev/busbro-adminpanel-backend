@@ -1,0 +1,24 @@
+{
+  "busId": "10",
+  "registrationNumber": "TN-01-1010",
+  "busName": "Medavakkam",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 60,
+  "standingCapacity": 10,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2023",
+  "fitnessExpiry": "19-07-2026",
+  "insuranceDetails": "Policy #INS-1010, Expiry 24-08-2025",
+  "pollutionExpiry": "14-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "14-06-2025",
+  "nextMaintenance": "14-12-2025",
+  "driver": {
+    "name": "Mr. Driver 10",
+    "contact": "+91 98765 43109",
+    "assignedSince": "14 March 2024",
+    "rating": 4.3,
+    "complaints": 0,
+    "feedback": "Smooth driving"
+  }
+}

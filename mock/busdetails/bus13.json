@@ -1,0 +1,24 @@
+{
+  "busId": "13",
+  "registrationNumber": "TN-01-1013",
+  "busName": "Madhavaram",
+  "busType": "AC Seater",
+  "seatingCapacity": 50,
+  "standingCapacity": 10,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2021",
+  "fitnessExpiry": "22-07-2026",
+  "insuranceDetails": "Policy #INS-1013, Expiry 27-08-2025",
+  "pollutionExpiry": "17-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "17-06-2025",
+  "nextMaintenance": "17-12-2025",
+  "driver": {
+    "name": "Mr. Driver 13",
+    "contact": "+91 98765 43112",
+    "assignedSince": "17 March 2024",
+    "rating": 3.9,
+    "complaints": 0,
+    "feedback": "Reliable and punctual"
+  }
+}

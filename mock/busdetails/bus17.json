@@ -1,0 +1,24 @@
+{
+  "busId": "17",
+  "registrationNumber": "TN-01-1017",
+  "busName": "Thiruvotriyur",
+  "busType": "AC Seater",
+  "seatingCapacity": 45,
+  "standingCapacity": 15,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2020",
+  "fitnessExpiry": "26-07-2026",
+  "insuranceDetails": "Policy #INS-1017, Expiry 31-08-2025",
+  "pollutionExpiry": "21-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "21-06-2025",
+  "nextMaintenance": "21-12-2025",
+  "driver": {
+    "name": "Mr. Driver 17",
+    "contact": "+91 98765 43116",
+    "assignedSince": "21 March 2024",
+    "rating": 3.7,
+    "complaints": 1,
+    "feedback": "Reliable and punctual"
+  }
+}

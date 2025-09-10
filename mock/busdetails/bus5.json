@@ -1,0 +1,24 @@
+{
+  "busId": "5",
+  "registrationNumber": "TN-01-1005",
+  "busName": "Chengalpet",
+  "busType": "AC Seater",
+  "seatingCapacity": 60,
+  "standingCapacity": 15,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2023",
+  "fitnessExpiry": "14-07-2026",
+  "insuranceDetails": "Policy #INS-1005, Expiry 19-08-2025",
+  "pollutionExpiry": "09-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "09-06-2025",
+  "nextMaintenance": "09-12-2025",
+  "driver": {
+    "name": "Mr. Driver 5",
+    "contact": "+91 98765 43104",
+    "assignedSince": "9 March 2024",
+    "rating": 4.3,
+    "complaints": 1,
+    "feedback": "Reliable and punctual"
+  }
+}

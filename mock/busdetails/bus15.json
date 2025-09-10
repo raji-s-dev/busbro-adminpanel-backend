@@ -1,0 +1,24 @@
+{
+  "busId": "15",
+  "registrationNumber": "TN-01-1015",
+  "busName": "Poonamallee",
+  "busType": "AC Seater",
+  "seatingCapacity": 60,
+  "standingCapacity": 20,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2023",
+  "fitnessExpiry": "24-07-2026",
+  "insuranceDetails": "Policy #INS-1015, Expiry 29-08-2025",
+  "pollutionExpiry": "19-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "19-06-2025",
+  "nextMaintenance": "19-12-2025",
+  "driver": {
+    "name": "Mr. Driver 15",
+    "contact": "+91 98765 43114",
+    "assignedSince": "19 March 2024",
+    "rating": 4.3,
+    "complaints": 2,
+    "feedback": "Reliable and punctual"
+  }
+}

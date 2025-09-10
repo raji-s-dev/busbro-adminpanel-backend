@@ -1,0 +1,24 @@
+{
+  "busId": "16",
+  "registrationNumber": "TN-01-1016",
+  "busName": "Tambaram",
+  "busType": "Non-AC Seater",
+  "seatingCapacity": 40,
+  "standingCapacity": 10,
+  "manufacturer": "Tata Motors",
+  "manufactureYear": "2019",
+  "fitnessExpiry": "25-07-2026",
+  "insuranceDetails": "Policy #INS-1016, Expiry 30-08-2025",
+  "pollutionExpiry": "20-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "20-06-2025",
+  "nextMaintenance": "20-12-2025",
+  "driver": {
+    "name": "Mr. Driver 16",
+    "contact": "+91 98765 43115",
+    "assignedSince": "20 March 2024",
+    "rating": 3.5,
+    "complaints": 0,
+    "feedback": "Smooth driving"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "busId": "3",
+  "registrationNumber": "TN-01-1003",
+  "busName": "Adyar",
+  "busType": "AC Seater",
+  "seatingCapacity": 50,
+  "standingCapacity": 20,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2021",
+  "fitnessExpiry": "12-07-2026",
+  "insuranceDetails": "Policy #INS-1003, Expiry 17-08-2025",
+  "pollutionExpiry": "07-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "07-06-2025",
+  "nextMaintenance": "07-12-2025",
+  "driver": {
+    "name": "Mr. Driver 3",
+    "contact": "+91 98765 43102",
+    "assignedSince": "7 March 2024",
+    "rating": 3.9,
+    "complaints": 2,
+    "feedback": "Reliable and punctual"
+  }
+}

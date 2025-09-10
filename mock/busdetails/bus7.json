@@ -1,0 +1,24 @@
+{
+  "busId": "7",
+  "registrationNumber": "TN-01-1007",
+  "busName": "ECR-2",
+  "busType": "AC Seater",
+  "seatingCapacity": 45,
+  "standingCapacity": 10,
+  "manufacturer": "Ashok Leyland",
+  "manufactureYear": "2020",
+  "fitnessExpiry": "16-07-2026",
+  "insuranceDetails": "Policy #INS-1007, Expiry 21-08-2025",
+  "pollutionExpiry": "11-03-2026",
+  "permitDetails": "Route Permit Valid till 2027",
+  "lastMaintenance": "11-06-2025",
+  "nextMaintenance": "11-12-2025",
+  "driver": {
+    "name": "Mr. Driver 7",
+    "contact": "+91 98765 43106",
+    "assignedSince": "11 March 2024",
+    "rating": 3.7,
+    "complaints": 0,
+    "feedback": "Reliable and punctual"
+  }
+}
