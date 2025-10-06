@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Suresh Kumar",
+    "contactNumber": "+91 98765 43210",
+    "assignedSince": "05 March 2024",
+    "performanceRating": 4.2,
+    "totalComplaints": 1,
+    "feedbackSummary": "Reliable and punctual"
+  },
+  "identification": {
+    "driverId": "D001",
+    "driverName": "R. Kumar",
+    "aadhaarNumber": "XXXX-XXXX-5678",
+    "employeeCode": "EMP-DR-01",
+    "employmentType": "Full-time / Contract"
+  },
+  "contact": {
+    "phoneNumber": "+91 98765 43210",
+    "alternateContact": "+91 91234 56789",
+    "email": "driver.kumar@college.edu",
+    "address": "No.12, 2nd Cross Street, Ambattur, Chennai",
+    "emergencyContactPerson": "S. Ravi (Brother)",
+    "emergencyContactNumber": "+91 90030 11122"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-56789",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "12-03-2017",
+    "expiryDate": "12-03-2027",
+    "issuingAuthority": "Chennai (TN-01)",
+    "badgeNumber": "123456",
+    "experienceYears": 8
+  },
+  "assignments": [
+    {
+      "driverName": "Dhanasekar",
+      "currentBus": {
+        "name": "West Mambalam",
+        "id": "04",
+        "assignedSince": "05 March 2024"
+      },
+      "history": [
+        { "name": "Avadi", "from": "12 Feb 2024", "to": "Present" },
+        { "name": "ECR-1", "from": "05 Jan 2024", "to": "11 Feb 2024" },
+        { "name": "Kundrathur", "from": "10 Oct 2023", "to": "04 Jan 2024" },
+        { "name": "Porur", "from": "01 Jun 2023", "to": "09 Oct 2023" }
+      ]
+    }
+  ]
+}

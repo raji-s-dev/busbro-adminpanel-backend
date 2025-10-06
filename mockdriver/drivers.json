@@ -1,0 +1,19 @@
+[
+  { "id": "driver1", "name": "Aarumugam M", "status": "Assigned" },
+  { "id": "driver2", "name": "Ayyappan S", "status": "Assigned" },
+  { "id": "driver3", "name": "Balamurugan T", "status": "Assigned" },
+  { "id": "driver4", "name": "Baskaran P", "status": "Assigned" },
+  { "id": "driver5", "name": "Chandran R", "status": "Assigned" },
+  { "id": "driver6", "name": "Chinnasamy K", "status": "UnAssigned" },
+  { "id": "driver7", "name": "Dhanasekar V", "status": "UnAssigned" },
+  { "id": "driver8", "name": "Durairaj N", "status": "UnAssigned" },
+  { "id": "driver9", "name": "Danavel N", "status": "UnAssigned" },
+  { "id": "driver10", "name": "Ilango R", "status": "Assigned" },
+  { "id": "driver11", "name": "Jeganathan M", "status": "OnLeave" },
+  { "id": "driver12", "name": "Kaliyaperumal D", "status": "OnLeave" },
+  { "id": "driver13", "name": "Karthikeyan N", "status": "Assigned" },
+  { "id": "driver14", "name": "Loganathan S", "status": "Suspended" },
+  { "id": "driver15", "name": "Manikandan R", "status": "Suspended" },
+  { "id": "driver16", "name": "Murugan V", "status": "FormerDriver" },
+  { "id": "driver17", "name": "Gunurathan S", "status": "FormerDriver" }
+]
