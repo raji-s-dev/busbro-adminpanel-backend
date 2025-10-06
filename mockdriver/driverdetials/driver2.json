@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Ayyappan Subramani",
+    "contactNumber": "+91 98403 22451",
+    "assignedSince": "10 April 2024",
+    "performanceRating": 4.5,
+    "totalComplaints": 0,
+    "feedbackSummary": "Courteous, follows safety rules"
+  },
+  "identification": {
+    "driverId": "D002",
+    "driverName": "Ayyappan S",
+    "aadhaarNumber": "XXXX-XXXX-9042",
+    "employeeCode": "EMP-DR-02",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 98403 22451",
+    "alternateContact": "+91 95000 44521",
+    "email": "ayyappan.s@college.edu",
+    "address": "Plot 22, Kamaraj Nagar, Poonamallee, Chennai",
+    "emergencyContactPerson": "S. Prakash (Brother)",
+    "emergencyContactNumber": "+91 96290 33344"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-56801",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "14-06-2016",
+    "expiryDate": "14-06-2026",
+    "issuingAuthority": "Chennai (TN-02)",
+    "badgeNumber": "223457",
+    "experienceYears": 9
+  },
+  "assignments": [
+    {
+      "driverName": "Ayyappan",
+      "currentBus": {
+        "name": "Tambaram",
+        "id": "07",
+        "assignedSince": "10 April 2024"
+      },
+      "history": [
+        {
+          "name": "Medavakkam",
+          "from": "01 Jan 2024",
+          "to": "09 Apr 2024"
+        },
+        {
+          "name": "Chromepet",
+          "from": "10 Oct 2023",
+          "to": "31 Dec 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "05-06-2025",
+      "time": "07:55 AM",
+      "speedRecorded": 79,
+      "durationOverLimit": "1 min 20 sec"
+    }
+  ]
+}

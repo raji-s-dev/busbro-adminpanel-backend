@@ -20,7 +20,7 @@ function getWorkingDays(month, year) {
 }
 
 // Generate PieChart punctuality data
-export function generatePieData(month, year) {
+export function generatedriverPieData(month, year) {
   const workingDays = getWorkingDays(month, year);
 
   // Distributions (approx %)

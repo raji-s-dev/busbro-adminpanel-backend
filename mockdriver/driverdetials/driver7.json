@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Dhanasekar V",
+    "contactNumber": "+91 94433 99880",
+    "assignedSince": "Not Assigned",
+    "performanceRating": 4.0,
+    "totalComplaints": 1,
+    "feedbackSummary": "Good city driving; awaiting assignment"
+  },
+  "identification": {
+    "driverId": "D007",
+    "driverName": "Dhanasekar V",
+    "aadhaarNumber": "XXXX-XXXX-1166",
+    "employeeCode": "EMP-DR-07",
+    "employmentType": "Contract"
+  },
+  "contact": {
+    "phoneNumber": "+91 94433 99880",
+    "alternateContact": "+91 99653 22110",
+    "email": "dhanasekar.v@college.edu",
+    "address": "No.11, Venkateshapuram, Ambattur, Chennai",
+    "emergencyContactPerson": "V. Lakshmanan (Father)",
+    "emergencyContactNumber": "+91 94455 88990"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57555",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "05-05-2018",
+    "expiryDate": "05-05-2028",
+    "issuingAuthority": "Chennai (TN-12)",
+    "badgeNumber": "723462",
+    "experienceYears": 7
+  },
+  "assignments": [
+    {
+      "driverName": "Dhanasekar",
+      "currentBus": {
+        "name": "Not Assigned",
+        "id": "",
+        "assignedSince": "Not Assigned"
+      },
+      "history": [
+        {
+          "name": "Avadi",
+          "from": "12 Feb 2024",
+          "to": "20 Mar 2024"
+        },
+        {
+          "name": "ECR-1",
+          "from": "05 Jan 2024",
+          "to": "11 Feb 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}

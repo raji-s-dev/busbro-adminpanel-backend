@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Karthikeyan Narayanan",
+    "contactNumber": "+91 98100 33455",
+    "assignedSince": "03 January 2024",
+    "performanceRating": 4.4,
+    "totalComplaints": 0,
+    "feedbackSummary": "Consistent, courteous, low complaints"
+  },
+  "identification": {
+    "driverId": "D013",
+    "driverName": "Karthikeyan N",
+    "aadhaarNumber": "XXXX-XXXX-3455",
+    "employeeCode": "EMP-DR-13",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 98100 33455",
+    "alternateContact": "+91 94480 77600",
+    "email": "karthikeyan.n@college.edu",
+    "address": "2, Gandhi Colony, Adyar, Chennai",
+    "emergencyContactPerson": "N. Radha (Wife)",
+    "emergencyContactNumber": "+91 98765 00990"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58123",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "06-06-2016",
+    "expiryDate": "06-06-2026",
+    "issuingAuthority": "Chennai (TN-18)",
+    "badgeNumber": "133468",
+    "experienceYears": 9
+  },
+  "assignments": [
+    {
+      "driverName": "Karthikeyan",
+      "currentBus": {
+        "name": "Mylapore",
+        "id": "11",
+        "assignedSince": "03 January 2024"
+      },
+      "history": [
+        {
+          "name": "Nungambakkam",
+          "from": "01 Nov 2023",
+          "to": "31 Dec 2023"
+        },
+        {
+          "name": "Egmore",
+          "from": "01 Aug 2023",
+          "to": "31 Oct 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}

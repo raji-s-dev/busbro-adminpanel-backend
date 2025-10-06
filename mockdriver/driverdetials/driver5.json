@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Chandran Rajagopal",
+    "contactNumber": "+91 98765 12345",
+    "assignedSince": "08 April 2024",
+    "performanceRating": 4.3,
+    "totalComplaints": 1,
+    "feedbackSummary": "Safe driving; helpful to students"
+  },
+  "identification": {
+    "driverId": "D005",
+    "driverName": "Chandran R",
+    "aadhaarNumber": "XXXX-XXXX-2345",
+    "employeeCode": "EMP-DR-05",
+    "employmentType": "Full-time / Contract"
+  },
+  "contact": {
+    "phoneNumber": "+91 98765 12345",
+    "alternateContact": "+91 94455 66778",
+    "email": "chandran.r@college.edu",
+    "address": "8-A, New Colony, Velachery, Chennai",
+    "emergencyContactPerson": "R. Meena (Wife)",
+    "emergencyContactNumber": "+91 97890 11223"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57333",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "21-03-2017",
+    "expiryDate": "21-03-2027",
+    "issuingAuthority": "Chennai (TN-10)",
+    "badgeNumber": "523460",
+    "experienceYears": 8
+  },
+  "assignments": [
+    {
+      "driverName": "Chandran",
+      "currentBus": {
+        "name": "Chromepet",
+        "id": "09",
+        "assignedSince": "08 April 2024"
+      },
+      "history": [
+        {
+          "name": "Guduvanchery",
+          "from": "01 Feb 2024",
+          "to": "07 Apr 2024"
+        },
+        {
+          "name": "Saidapet",
+          "from": "10 Jul 2023",
+          "to": "31 Jan 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "22-04-2025",
+      "time": "06:50 AM",
+      "speedRecorded": 82,
+      "durationOverLimit": "1 min 45 sec"
+    }
+  ]
+}

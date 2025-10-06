@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Gunurathan Selvapandian",
+    "contactNumber": "+91 97654 33422",
+    "assignedSince": "Former Driver - last assigned 10 February 2024",
+    "performanceRating": 3.8,
+    "totalComplaints": 1,
+    "feedbackSummary": "Left employment; available as contact for transition"
+  },
+  "identification": {
+    "driverId": "D017",
+    "driverName": "Gunurathan S",
+    "aadhaarNumber": "XXXX-XXXX-3422",
+    "employeeCode": "EMP-DR-17",
+    "employmentType": "Former"
+  },
+  "contact": {
+    "phoneNumber": "+91 97654 33422",
+    "alternateContact": "+91 94420 66778",
+    "email": "gunurathan.s@college.edu",
+    "address": "6, Brindavan Colony, Avadi, Chennai",
+    "emergencyContactPerson": "S. Radha (Wife)",
+    "emergencyContactNumber": "+91 98000 55441"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58567",
+    "licenseType": "Heavy Vehicle",
+    "issuedDate": "01-01-2010",
+    "expiryDate": "01-01-2030",
+    "issuingAuthority": "Chennai (TN-22)",
+    "badgeNumber": "173472",
+    "experienceYears": 15
+  },
+  "assignments": [
+    {
+      "driverName": "Gunurathan",
+      "currentBus": {
+        "name": "Not Assigned",
+        "id": "",
+        "assignedSince": "Former Driver - last assigned 10 February 2024"
+      },
+      "history": [
+        {
+          "name": "Kundrathur",
+          "from": "01 Oct 2023",
+          "to": "09 Feb 2024"
+        },
+        {
+          "name": "Porur",
+          "from": "01 Jun 2023",
+          "to": "30 Sep 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}

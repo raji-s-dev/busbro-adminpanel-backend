@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Murugan V",
+    "contactNumber": "+91 98900 77654",
+    "assignedSince": "Former Driver - last assigned 01 March 2024",
+    "performanceRating": 3.6,
+    "totalComplaints": 2,
+    "feedbackSummary": "Former employee; left on amicable terms"
+  },
+  "identification": {
+    "driverId": "D016",
+    "driverName": "Murugan V",
+    "aadhaarNumber": "XXXX-XXXX-7654",
+    "employeeCode": "EMP-DR-16",
+    "employmentType": "Former"
+  },
+  "contact": {
+    "phoneNumber": "+91 98900 77654",
+    "alternateContact": "+91 98000 33441",
+    "email": "murugan.v@college.edu",
+    "address": "22, East Street, Tambaram, Chennai",
+    "emergencyContactPerson": "V. Meena (Wife)",
+    "emergencyContactNumber": "+91 98760 11223"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58456",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "15-05-2012",
+    "expiryDate": "15-05-2027",
+    "issuingAuthority": "Chennai (TN-21)",
+    "badgeNumber": "163471",
+    "experienceYears": 13
+  },
+  "assignments": [
+    {
+      "driverName": "Murugan",
+      "currentBus": {
+        "name": "Not Assigned",
+        "id": "",
+        "assignedSince": "Former Driver - last assigned 01 March 2024"
+      },
+      "history": [
+        {
+          "name": "Porur",
+          "from": "01 Dec 2023",
+          "to": "28 Feb 2024"
+        },
+        {
+          "name": "Avadi",
+          "from": "01 Aug 2023",
+          "to": "30 Nov 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "10-01-2025",
+      "time": "07:30 AM",
+      "speedRecorded": 80,
+      "durationOverLimit": "1 min 30 sec"
+    }
+  ]
+}

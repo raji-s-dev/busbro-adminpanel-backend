@@ -5,11 +5,13 @@ import cors from "cors";
 import { fileURLToPath } from "url";  
 
 import { generateEntryLogData } from "./busutils/mockEntryLog.js";
-import { generateArrivalTimeline } from "./busutils/mockArrivalTimeline.js";
-import { generatePieData } from "./busutils/piebusMockData.js";
+import { generatebusArrivalTimeline } from "./busutils/mockArrivalTimeline.js";
+import { generatebusPieData } from "./busutils/piebusMockData.js";
 
 import { generateAttendance } from "./driverutils/generateAttendance.js";
 import { generateDepartureTimeline } from "./driverutils/mockDepartureTimeline.js";
+import { generatedriverArrivalTimeline } from "./driverutils/mockArrivalTimeline.js";
+import { generatedriverPieData } from "./driverutils/piedriverMockData.js";
 
 const app = express();
 app.use(cors());
@@ -120,7 +122,7 @@ app.get("/api/buses/:id/arrivaltimeline", (req, res) => {
   if (!month || !year) {
     return res.status(400).json({ error: "month and year are required" });
   }
-  const data = generateArrivalTimeline(Number(month), Number(year));
+  const data = generatebusArrivalTimeline(Number(month), Number(year));
   res.json(data);
 });
 
@@ -130,7 +132,7 @@ app.get("/api/buses/:id/pie", (req, res) => {
   if (!month || !year) {
     return res.status(400).json({ error: "month and year are required" });
   }
-  const data = generatePieData(Number(month), Number(year));
+  const data = generatebusPieData(Number(month), Number(year));
   res.json(data);
 });
 
@@ -200,7 +202,7 @@ app.get("/api/attendance/:month/:year", (req, res) => {
 });
 
 
-// 4️⃣ Dynamic: Departure Timeline
+//  Dynamic: Departure Timeline
 app.get("/api/drivers/:id/departuretimeline", (req, res) => {
   const { month, year } = req.query;
   if (!month || !year) {
@@ -211,6 +213,31 @@ app.get("/api/drivers/:id/departuretimeline", (req, res) => {
   const driverId = req.params.id;
 
   const data = generateDepartureTimeline(Number(month), Number(year));
+  res.json(data);
+});
+
+
+//  Dynamic: Arrival Timeline
+app.get("/api/drivers/:id/arrivaltimeline", (req, res) => {
+  const { month, year } = req.query;
+  if (!month || !year) {
+    return res.status(400).json({ error: "month and year are required" });
+  }
+
+  // Assuming driver ID can be used if needed
+  const driverId = req.params.id;
+
+  const data = generatedriverArrivalTimeline(Number(month), Number(year));
+  res.json(data);
+});
+
+//  Dynamic: Punctuality Pie Chart
+app.get("/api/drivers/:id/pie", (req, res) => {
+  const { month, year } = req.query;
+  if (!month || !year) {
+    return res.status(400).json({ error: "month and year are required" });
+  }
+  const data = generatedriverPieData(Number(month), Number(year));
   res.json(data);
 });
 

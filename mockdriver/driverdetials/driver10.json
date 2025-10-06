@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Ilango Raman",
+    "contactNumber": "+91 93820 11234",
+    "assignedSince": "15 May 2024",
+    "performanceRating": 4.6,
+    "totalComplaints": 0,
+    "feedbackSummary": "Calm, obeys traffic rules; student favourite"
+  },
+  "identification": {
+    "driverId": "D010",
+    "driverName": "Ilango R",
+    "aadhaarNumber": "XXXX-XXXX-1234",
+    "employeeCode": "EMP-DR-10",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 93820 11234",
+    "alternateContact": "+91 90001 22334",
+    "email": "ilango.r@college.edu",
+    "address": "10, Kalyani Nagar, Velachery, Chennai",
+    "emergencyContactPerson": "R. Latha (Wife)",
+    "emergencyContactNumber": "+91 98450 33421"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57890",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "30-04-2017",
+    "expiryDate": "30-04-2027",
+    "issuingAuthority": "Chennai (TN-15)",
+    "badgeNumber": "103465",
+    "experienceYears": 8
+  },
+  "assignments": [
+    {
+      "driverName": "Ilango",
+      "currentBus": {
+        "name": "Madipakkam",
+        "id": "12",
+        "assignedSince": "15 May 2024"
+      },
+      "history": [
+        {
+          "name": "Sholinganallur",
+          "from": "01 Feb 2024",
+          "to": "14 May 2024"
+        },
+        {
+          "name": "Navalur",
+          "from": "01 Sep 2023",
+          "to": "31 Jan 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "29-05-2025",
+      "time": "06:40 AM",
+      "speedRecorded": 81,
+      "durationOverLimit": "1 min 10 sec"
+    }
+  ]
+}

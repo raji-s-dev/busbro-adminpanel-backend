@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Jeganathan Mani",
+    "contactNumber": "+91 94488 55121",
+    "assignedSince": "01 March 2024",
+    "performanceRating": 4.0,
+    "totalComplaints": 1,
+    "feedbackSummary": "On scheduled leave; generally reliable"
+  },
+  "identification": {
+    "driverId": "D011",
+    "driverName": "Jeganathan M",
+    "aadhaarNumber": "XXXX-XXXX-5512",
+    "employeeCode": "EMP-DR-11",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 94488 55121",
+    "alternateContact": "+91 98421 11223",
+    "email": "jeganathan.m@college.edu",
+    "address": "9, Bharathi Street, Thiruvottiyur, Chennai",
+    "emergencyContactPerson": "M. Vijayalakshmi (Wife)",
+    "emergencyContactNumber": "+91 97860 44312"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57911",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "12-12-2015",
+    "expiryDate": "12-12-2025",
+    "issuingAuthority": "Chennai (TN-16)",
+    "badgeNumber": "113466",
+    "experienceYears": 9
+  },
+  "assignments": [
+    {
+      "driverName": "Jeganathan",
+      "currentBus": {
+        "name": "Porur",
+        "id": "02",
+        "assignedSince": "01 March 2024"
+      },
+      "history": [
+        {
+          "name": "Kundrathur",
+          "from": "10 Oct 2023",
+          "to": "29 Feb 2024"
+        },
+        {
+          "name": "Sembakkam",
+          "from": "01 Jul 2023",
+          "to": "09 Oct 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}

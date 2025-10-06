@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Danavel N",
+    "contactNumber": "+91 98420 44321",
+    "assignedSince": "Not Assigned",
+    "performanceRating": 4.0,
+    "totalComplaints": 1,
+    "feedbackSummary": "Calm and courteous; currently awaiting route"
+  },
+  "identification": {
+    "driverId": "D009",
+    "driverName": "Danavel N",
+    "aadhaarNumber": "XXXX-XXXX-4321",
+    "employeeCode": "EMP-DR-09",
+    "employmentType": "Contract"
+  },
+  "contact": {
+    "phoneNumber": "+91 98420 44321",
+    "alternateContact": "+91 94460 33445",
+    "email": "danavel.n@college.edu",
+    "address": "7, East End Road, Perambur, Chennai",
+    "emergencyContactPerson": "N. Selvi (Wife)",
+    "emergencyContactNumber": "+91 99623 55411"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57789",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "18-11-2016",
+    "expiryDate": "18-11-2026",
+    "issuingAuthority": "Chennai (TN-14)",
+    "badgeNumber": "923464",
+    "experienceYears": 8
+  },
+  "assignments": [
+    {
+      "driverName": "Danavel",
+      "currentBus": {
+        "name": "Not Assigned",
+        "id": "",
+        "assignedSince": "Not Assigned"
+      },
+      "history": [
+        {
+          "name": "Ambattur",
+          "from": "01 Feb 2024",
+          "to": "20 Feb 2024"
+        },
+        {
+          "name": "Valasaravakkam",
+          "from": "10 Oct 2023",
+          "to": "31 Jan 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}

@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Durairaj Narayanan",
+    "contactNumber": "+91 97909 33221",
+    "assignedSince": "Not Assigned",
+    "performanceRating": 3.8,
+    "totalComplaints": 2,
+    "feedbackSummary": "Under review for punctuality"
+  },
+  "identification": {
+    "driverId": "D008",
+    "driverName": "Durairaj N",
+    "aadhaarNumber": "XXXX-XXXX-3321",
+    "employeeCode": "EMP-DR-08",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 97909 33221",
+    "alternateContact": "+91 98411 22334",
+    "email": "durairaj.n@college.edu",
+    "address": "3B, Kasi Street, Ambattur, Chennai",
+    "emergencyContactPerson": "N. Ramesh (Brother)",
+    "emergencyContactNumber": "+91 98940 77665"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57678",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "22-01-2019",
+    "expiryDate": "22-01-2029",
+    "issuingAuthority": "Chennai (TN-13)",
+    "badgeNumber": "823463",
+    "experienceYears": 6
+  },
+  "assignments": [
+    {
+      "driverName": "Durairaj",
+      "currentBus": {
+        "name": "Not Assigned",
+        "id": "",
+        "assignedSince": "Not Assigned"
+      },
+      "history": [
+        {
+          "name": "K.K. Nagar",
+          "from": "01 Apr 2024",
+          "to": "30 Apr 2024"
+        },
+        {
+          "name": "Nungambakkam",
+          "from": "01 Dec 2023",
+          "to": "31 Mar 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "03-04-2025",
+      "time": "05:12 AM",
+      "speedRecorded": 76,
+      "durationOverLimit": "1 min 5 sec"
+    }
+  ]
+}

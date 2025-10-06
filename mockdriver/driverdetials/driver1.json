@@ -1,6 +1,6 @@
 {
   "basicInfo": {
-    "displayName": "Mr. Suresh Kumar",
+    "displayName": "Aarumugam M",
     "contactNumber": "+91 98765 43210",
     "assignedSince": "05 March 2024",
     "performanceRating": 4.2,
@@ -45,6 +45,28 @@
         { "name": "Kundrathur", "from": "10 Oct 2023", "to": "04 Jan 2024" },
         { "name": "Porur", "from": "01 Jun 2023", "to": "09 Oct 2023" }
       ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "01-06-2025",
+      "time": "08:42 AM",
+      "speedRecorded": 88,
+      "durationOverLimit": "2 min 30 sec"
+    },
+    {
+      "date": "02-06-2025",
+      "time": "05:18 AM",
+     
+      "speedRecorded": 74,
+      "durationOverLimit": "1 min 10 sec"
+    },
+    {
+      "date": "03-06-2025",
+      "time": "05:18 AM",
+    
+      "speedRecorded": 80,
+      "durationOverLimit": "3 min"
     }
   ]
 }

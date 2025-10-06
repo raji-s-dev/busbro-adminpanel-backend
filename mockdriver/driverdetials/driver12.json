@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Kaliyaperumal Durai",
+    "contactNumber": "+91 94466 77881",
+    "assignedSince": "23 February 2024",
+    "performanceRating": 3.7,
+    "totalComplaints": 2,
+    "feedbackSummary": "On leave; needs refresher training"
+  },
+  "identification": {
+    "driverId": "D012",
+    "driverName": "Kaliyaperumal D",
+    "aadhaarNumber": "XXXX-XXXX-7781",
+    "employeeCode": "EMP-DR-12",
+    "employmentType": "Full-time / Contract"
+  },
+  "contact": {
+    "phoneNumber": "+91 94466 77881",
+    "alternateContact": "+91 97900 88776",
+    "email": "kaliyaperumal.d@college.edu",
+    "address": "14, Nataraja Street, Ambattur, Chennai",
+    "emergencyContactPerson": "D. Meenakshi (Sister)",
+    "emergencyContactNumber": "+91 98420 66778"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58012",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "04-04-2016",
+    "expiryDate": "04-04-2026",
+    "issuingAuthority": "Chennai (TN-17)",
+    "badgeNumber": "123467",
+    "experienceYears": 9
+  },
+  "assignments": [
+    {
+      "driverName": "Kaliyaperumal",
+      "currentBus": {
+        "name": "Porur",
+        "id": "02",
+        "assignedSince": "23 February 2024"
+      },
+      "history": [
+        {
+          "name": "Velachery",
+          "from": "01 Dec 2023",
+          "to": "22 Feb 2024"
+        },
+        {
+          "name": "Sholinganallur",
+          "from": "01 Jul 2023",
+          "to": "30 Nov 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "17-03-2025",
+      "time": "07:10 AM",
+      "speedRecorded": 77,
+      "durationOverLimit": "40 sec"
+    }
+  ]
+}

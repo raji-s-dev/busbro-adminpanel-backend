@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Manikandan R",
+    "contactNumber": "+91 94567 33421",
+    "assignedSince": "Suspended since 01 August 2025",
+    "performanceRating": 3.1,
+    "totalComplaints": 4,
+    "feedbackSummary": "Suspended due to repeated punctuality and safety complaints"
+  },
+  "identification": {
+    "driverId": "D015",
+    "driverName": "Manikandan R",
+    "aadhaarNumber": "XXXX-XXXX-3342",
+    "employeeCode": "EMP-DR-15",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 94567 33421",
+    "alternateContact": "+91 98412 22331",
+    "email": "manikandan.r@college.edu",
+    "address": "5, New Hope Street, Ambattur, Chennai",
+    "emergencyContactPerson": "R. Kavitha (Wife)",
+    "emergencyContactNumber": "+91 99000 11223"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58345",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "18-02-2014",
+    "expiryDate": "18-02-2029",
+    "issuingAuthority": "Chennai (TN-20)",
+    "badgeNumber": "153470",
+    "experienceYears": 11
+  },
+  "assignments": [
+    {
+      "driverName": "Manikandan",
+      "currentBus": {
+        "name": "Suspended",
+        "id": "",
+        "assignedSince": "Suspended since 01 August 2025"
+      },
+      "history": [
+        {
+          "name": "Medavakkam",
+          "from": "01 Feb 2024",
+          "to": "31 Jul 2025"
+        },
+        {
+          "name": "Chromepet",
+          "from": "01 Sep 2023",
+          "to": "31 Jan 2024"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "20-06-2025",
+      "time": "05:50 AM",
+      "speedRecorded": 86,
+      "durationOverLimit": "2 min 10 sec"
+    }
+  ]
+}

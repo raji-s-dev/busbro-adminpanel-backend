@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Loganathan Subramani",
+    "contactNumber": "+91 98944 22111",
+    "assignedSince": "Suspended since 12 July 2025",
+    "performanceRating": 2.9,
+    "totalComplaints": 3,
+    "feedbackSummary": "Suspended pending investigation for safety violations"
+  },
+  "identification": {
+    "driverId": "D014",
+    "driverName": "Loganathan S",
+    "aadhaarNumber": "XXXX-XXXX-2211",
+    "employeeCode": "EMP-DR-14",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 98944 22111",
+    "alternateContact": "+91 97650 33440",
+    "email": "loganathan.s@college.edu",
+    "address": "18, Lake View Road, Perungudi, Chennai",
+    "emergencyContactPerson": "S. Janani (Daughter)",
+    "emergencyContactNumber": "+91 98430 77880"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-58234",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "20-09-2013",
+    "expiryDate": "20-09-2028",
+    "issuingAuthority": "Chennai (TN-19)",
+    "badgeNumber": "143469",
+    "experienceYears": 12
+  },
+  "assignments": [
+    {
+      "driverName": "Loganathan",
+      "currentBus": {
+        "name": "Suspended",
+        "id": "",
+        "assignedSince": "Suspended since 12 July 2025"
+      },
+      "history": [
+        {
+          "name": "Porur",
+          "from": "01 Jan 2024",
+          "to": "11 Jul 2025"
+        },
+        {
+          "name": "Avadi",
+          "from": "01 Oct 2023",
+          "to": "31 Dec 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": [
+    {
+      "date": "10-07-2025",
+      "time": "08:05 AM",
+      "speedRecorded": 92,
+      "durationOverLimit": "4 min"
+    },
+    {
+      "date": "08-07-2025",
+      "time": "06:30 AM",
+      "speedRecorded": 88,
+      "durationOverLimit": "2 min 20 sec"
+    }
+  ]
+}

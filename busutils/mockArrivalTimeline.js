@@ -3,7 +3,7 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-export function generateArrivalTimeline(month, year) {
+export function generatebusArrivalTimeline(month, year) {
   const daysInMonth = new Date(year, month, 0).getDate();
 
   return Array.from({ length: daysInMonth }, (_, i) => {

@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "displayName": "Mr. Baskaran Palanisamy",
+    "contactNumber": "+91 98941 66231",
+    "assignedSince": "20 March 2024",
+    "performanceRating": 4.8,
+    "totalComplaints": 0,
+    "feedbackSummary": "Highly disciplined and well-rated by students"
+  },
+  "identification": {
+    "driverId": "D004",
+    "driverName": "Baskaran P",
+    "aadhaarNumber": "XXXX-XXXX-5421",
+    "employeeCode": "EMP-DR-04",
+    "employmentType": "Full-time"
+  },
+  "contact": {
+    "phoneNumber": "+91 98941 66231",
+    "alternateContact": "+91 93600 45432",
+    "email": "baskaran.p@college.edu",
+    "address": "No. 5, Muthu Street, Ambattur Estate, Chennai",
+    "emergencyContactPerson": "P. Sangeetha (Wife)",
+    "emergencyContactNumber": "+91 90921 56211"
+  },
+  "license": {
+    "licenseNumber": "TN-DRV-57210",
+    "licenseType": "LMV–TR (Light Motor Vehicle - Transport)",
+    "issuedDate": "14-07-2018",
+    "expiryDate": "14-07-2028",
+    "issuingAuthority": "Chennai (TN-09)",
+    "badgeNumber": "423459",
+    "experienceYears": 7
+  },
+  "assignments": [
+    {
+      "driverName": "Baskaran",
+      "currentBus": {
+        "name": "Anna Nagar",
+        "id": "05",
+        "assignedSince": "20 March 2024"
+      },
+      "history": [
+        {
+          "name": "Red Hills",
+          "from": "01 Dec 2023",
+          "to": "19 Mar 2024"
+        },
+        {
+          "name": "Thiruvotriyur",
+          "from": "01 Sep 2023",
+          "to": "30 Nov 2023"
+        }
+      ]
+    }
+  ],
+  "speedingRecords": []
+}
