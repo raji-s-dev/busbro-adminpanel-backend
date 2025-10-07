@@ -1,0 +1,248 @@
+{
+  "busdetail": {
+    "busid": 18,
+    "busname": "West Mambalam"
+  },
+  "studentlist": [
+    {
+      "name": "Anitha M",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Aravind C",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Aravind U",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Arjun S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Arpita L",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Aswin K",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Chandran A",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "David N",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "David S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Dinesh D",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Divya K",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Easwar K",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Elangovan B",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Farook R",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Ganesan S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Gokul R",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Hariharan S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Harini D",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Harini J",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Hiran P",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Isha A",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Kavitha S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Kumud R",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Manish B",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Manish R",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Manish S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Meena S",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Murugan A",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Nadeem N",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Nagesh V",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Neela J",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Nithin L",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Nithya R",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Palanisamy V",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Palanivel B",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Pallavi M",
+      "status": "Fullypaid"
+    },
+    {
+      "name": "Pavithra G",
+      "status": "Feepending"
+    },
+    {
+      "name": "Pavithra T",
+      "status": "Feepending"
+    },
+    {
+      "name": "Pranav K",
+      "status": "Feepending"
+    },
+    {
+      "name": "Praveen S",
+      "status": "Feepending"
+    },
+    {
+      "name": "Priya V",
+      "status": "Feepending"
+    },
+    {
+      "name": "Ramesh N",
+      "status": "Feepending"
+    },
+    {
+      "name": "Ranjith R",
+      "status": "Feepending"
+    },
+    {
+      "name": "Ratna M",
+      "status": "Feepending"
+    },
+    {
+      "name": "Ravi N",
+      "status": "Feepending"
+    },
+    {
+      "name": "RaviShankar P",
+      "status": "Feepending"
+    },
+    {
+      "name": "RaviShankar R",
+      "status": "Feepending"
+    },
+    {
+      "name": "Renu U",
+      "status": "Feepending"
+    },
+    {
+      "name": "Richa M",
+      "status": "Feepending"
+    },
+    {
+      "name": "Richa R",
+      "status": "Feepending"
+    },
+    {
+      "name": "Rohit V",
+      "status": "Feepending"
+    },
+    {
+      "name": "Sakthi R",
+      "status": "Feepending"
+    },
+    {
+      "name": "Sangeetha N",
+      "status": "Feepending"
+    },
+    {
+      "name": "Selvi V",
+      "status": "Feepending"
+    },
+    {
+      "name": "Sowmya V",
+      "status": "Feepending"
+    },
+    {
+      "name": "Subash D",
+      "status": "Feepending"
+    },
+    {
+      "name": "Suganthi N",
+      "status": "Feepending"
+    },
+    {
+      "name": "Tharun R",
+      "status": "Feepending"
+    },
+    {
+      "name": "Tharun T",
+      "status": "Feepending"
+    },
+    {
+      "name": "Vivek S",
+      "status": "Feepending"
+    }
+  ]
+}
